@@ -1,6 +1,3 @@
-lst = [1,2,3,4,5]    
-indx = first_and_last(lst)
-
 n = int(input("Set fibonaci: "))
 lnt = int(input("Set limit for number to generate: "))
 
